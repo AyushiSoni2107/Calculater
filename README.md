@@ -1,2 +1,2 @@
 # Calculater
-https://codingexpert217.github.io/Calculater/
+https://AyushiSoni2107.github.io/Calculater/
